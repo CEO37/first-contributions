@@ -30,6 +30,7 @@
 - [Neagu](https://github.com/brijing)
 - [Audrey Bergeron](https://github.com/abergeron1905)
 - [Samuel Sandoval](https://github.com/samuelsandoval1)
+- [Chinedu Onwuka](https://github.com/CEO37)
 - [Josh Valdivia 🦦](https://github.com/jlsaldana)
 - [Donald Shanty Jr.](https://github.com/clefbassman)
 - [Peter Kang](https://github.com/pswk1)
